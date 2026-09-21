@@ -1,0 +1,4 @@
+frame_ms_requested,frame_samples,frame_ms_actual,hop_samples,overlap_percent,NFFT
+10,441,10.0,441,0.0,4096
+25,1102,24.988662131519273,441,59.98185117967332,4096
+50,2205,50.0,441,80.0,4096

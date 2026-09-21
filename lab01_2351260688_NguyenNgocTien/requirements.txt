@@ -1,0 +1,8 @@
+# Môi trường đã kiểm tra: Python 3.10.5; các thư viện xử lý được cố định để tái lập.
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+matplotlib==3.10.9
+soundfile==0.14.0
+ipython>=8,<9
+ipykernel>=6,<7

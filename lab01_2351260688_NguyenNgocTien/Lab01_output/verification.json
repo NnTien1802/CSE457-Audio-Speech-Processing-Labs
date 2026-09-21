@@ -1,0 +1,129 @@
+{
+  "checks": {
+    "fft_no_truncation": true,
+    "fft_at_least_three_peaks": true,
+    "quantized_wav_exact": true,
+    "resampling_duration_error_le_one_sample": true,
+    "fir_symmetric": true,
+    "figures_exist": true,
+    "audio_exists": true
+  },
+  "versions": {
+    "python": "3.10.5",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9",
+    "soundfile": "0.14.0"
+  },
+  "input_sha256": "1e4bf89d822f308c38c522dac1986bffc8df701fb14b3b0d538a4cbbd2b9c9cb",
+  "figures": [
+    "A_stereo_mono.png",
+    "B_waveforms.png",
+    "C_fft_linear_db.png",
+    "D_spectrogram_frames.png",
+    "E_windows.png",
+    "F_filter_response_spectrum.png",
+    "G1_quantization.png",
+    "G2_resampling.png",
+    "G2_alias_control.png",
+    "G3_coding.png"
+  ],
+  "audio": [
+    {
+      "file": "input_mono_PCM16.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 9452544,
+      "subtype": "PCM_16",
+      "size_bytes": 18905132
+    },
+    {
+      "file": "segment_low_rms.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 44100,
+      "subtype": "PCM_16",
+      "size_bytes": 88244
+    },
+    {
+      "file": "segment_high_rms.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 44100,
+      "subtype": "PCM_16",
+      "size_bytes": 88244
+    },
+    {
+      "file": "filtered_lpf_2k.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 9452544,
+      "subtype": "PCM_16",
+      "size_bytes": 18905132
+    },
+    {
+      "file": "filtered_hpf_300Hz.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 9452544,
+      "subtype": "PCM_16",
+      "size_bytes": 18905132
+    },
+    {
+      "file": "quantized_4bit_levels_in_PCM16.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 9452544,
+      "subtype": "PCM_16",
+      "size_bytes": 18905132
+    },
+    {
+      "file": "quantized_8bit.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 9452544,
+      "subtype": "PCM_U8",
+      "size_bytes": 9452588
+    },
+    {
+      "file": "quantized_16bit.wav",
+      "Fs_Hz": 44100,
+      "channels": 1,
+      "frames": 9452544,
+      "subtype": "PCM_16",
+      "size_bytes": 18905132
+    },
+    {
+      "file": "speech_resampled_16kHz.wav",
+      "Fs_Hz": 16000,
+      "channels": 1,
+      "frames": 3429495,
+      "subtype": "PCM_16",
+      "size_bytes": 6859034
+    },
+    {
+      "file": "speech_resampled_8kHz.wav",
+      "Fs_Hz": 8000,
+      "channels": 1,
+      "frames": 1714748,
+      "subtype": "PCM_16",
+      "size_bytes": 3429540
+    },
+    {
+      "file": "input_decoded_PCM16.wav",
+      "Fs_Hz": 44100,
+      "channels": 2,
+      "frames": 9452544,
+      "subtype": "PCM_16",
+      "size_bytes": 37810220
+    }
+  ],
+  "FFT_START": 140.25,
+  "FFT_duration_s": 0.75,
+  "STFT_fast_change_s": 5.51249433106576,
+  "STFT_stable_range_s": [
+    14.45249433106576,
+    14.95249433106576
+  ]
+}

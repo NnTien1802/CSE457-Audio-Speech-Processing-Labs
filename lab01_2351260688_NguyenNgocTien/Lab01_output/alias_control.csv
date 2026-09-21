@@ -1,0 +1,3 @@
+target_Fs_Hz,input_tone_Hz,alias_Hz,alias_amp_without_filter,alias_amp_resample_poly,alias_change_dB
+16000,12000,4000.0,1.0,0.0003272363865872868,-69.70276823109782
+8000,6000,2000.0,1.0,0.0003272363865881843,-69.702768231074

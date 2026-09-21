@@ -1,0 +1,11 @@
+Thuộc tính,Giá trị,Đơn vị
+File,datalab1.mp3,
+Format,MP3,
+Subtype,MPEG_LAYER_III,
+Sampling rate,44100,Hz
+Channels,2,
+Duration,214.34340136054422,s
+Decoded dtype,float64,
+MP3 size,3697728,byte
+PCM reference,16,bit/sample
+Common normalization gain,1.0,

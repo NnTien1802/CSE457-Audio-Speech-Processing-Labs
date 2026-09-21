@@ -1,0 +1,12 @@
+file,Fs_Hz,channels,frames,subtype,size_bytes
+input_mono_PCM16.wav,44100,1,9452544,PCM_16,18905132
+segment_low_rms.wav,44100,1,44100,PCM_16,88244
+segment_high_rms.wav,44100,1,44100,PCM_16,88244
+filtered_lpf_2k.wav,44100,1,9452544,PCM_16,18905132
+filtered_hpf_300Hz.wav,44100,1,9452544,PCM_16,18905132
+quantized_4bit_levels_in_PCM16.wav,44100,1,9452544,PCM_16,18905132
+quantized_8bit.wav,44100,1,9452544,PCM_U8,9452588
+quantized_16bit.wav,44100,1,9452544,PCM_16,18905132
+speech_resampled_16kHz.wav,16000,1,3429495,PCM_16,6859034
+speech_resampled_8kHz.wav,8000,1,1714748,PCM_16,3429540
+input_decoded_PCM16.wav,44100,2,9452544,PCM_16,37810220
