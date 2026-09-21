@@ -3,3 +3,7 @@
 luu_tru_khong_nop/
 __pycache__/
 .ipynb_checkpoints/
+.vscode/
+*.pyc
+.DS_Store
+Thumbs.db
