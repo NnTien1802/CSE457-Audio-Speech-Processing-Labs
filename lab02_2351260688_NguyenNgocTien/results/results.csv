@@ -1,0 +1,11 @@
+﻿file,true_label,pred_label,top1_label,top1_score,top2_label,top2_score
+data\down\down_04.wav,down,up,up,50.76708245859322,down,56.525099994332386
+data\down\down_05.wav,down,down,down,37.352163727920804,go,42.35339040967518
+data\go\go_04.wav,go,go,go,48.599689338179196,up,53.384533802302485
+data\go\go_05.wav,go,go,go,38.65077896227113,down,45.382781157972715
+data\left\left_04.wav,left,up,up,47.31775440003212,go,53.0652286425119
+data\left\left_05.wav,left,right,right,44.447849159143466,left,49.53119939227916
+data\right\right_04.wav,right,up,up,54.59298452614295,left,57.52437996188858
+data\right\right_05.wav,right,right,right,41.245617868943924,up,50.26630311990982
+data\up\up_04.wav,up,up,up,42.81389074754971,right,44.0731969804251
+data\up\up_05.wav,up,go,go,33.1798568656889,down,36.120400874903964

@@ -1,0 +1,5 @@
+﻿experiment,trim,feature,accuracy
+E1,False,MFCC13,0.6
+E1,True,MFCC13,0.5
+E2,True,MFCC13,0.5
+E2,True,MFCC13+Delta,0.4
