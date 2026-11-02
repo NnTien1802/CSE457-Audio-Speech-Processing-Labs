@@ -1,0 +1,8 @@
+# Lexicon minh hoa do nhom tu quy uoc; KHONG phai phone inventory cua giang vien.
+# Phat am tham khao kieu Bac; cac token thanh dieu la phan bo sung minh hoa.
+# Format: LABEL PHONE_1 ... PHONE_K TONE_TOKEN
+mo m əː T_HOI
+dong ɗ ɔ ŋ T_SAC
+len l e n T_NGANG
+xuong s uə ŋ T_SAC
+dung z ɯ ŋ T_HUYEN

@@ -1,0 +1,24 @@
+BẢNG KÝ HIỆU MINH HỌA – NHÓM TỰ XÂY DỰNG (chưa được giảng viên xác nhận)
+Quy ước phát âm tham khảo giọng Bắc, phân tách âm đầu / nguyên âm / âm cuối / thanh điệu.
+Ký hiệu dưới đây gần với IPA, không phải bảng phiên âm chuẩn chính thức của học phần.
+
+m     : âm đầu /m/ (mở)
+ɗ     : âm đầu /ɗ/ (đóng)
+l     : âm đầu /l/ (lên)
+s     : âm đầu /s/ (xuống; biến thể vùng miền không xét)
+z     : âm đầu /z/ của "dừng" theo một cách đọc miền Bắc; vùng khác có thể khác
+əː    : nguyên âm /əː/ (mở), cách biểu diễn mang tính xấp xỉ
+ɔ     : nguyên âm /ɔ/ (đóng)
+e     : nguyên âm /e/ (lên)
+uə    : nguyên âm đôi /uə/ (xuống)
+ɯ     : nguyên âm /ɯ/ (dừng)
+n     : phụ âm cuối /n/
+ŋ     : phụ âm cuối /ŋ/
+T_HOI   : dấu hỏi
+T_SAC   : dấu sắc
+T_NGANG : thanh ngang
+T_HUYEN : dấu huyền
+
+CHÚ Ý: T_* là nhãn thanh điệu ký hiệu thêm, không phải một phone đoạn tính IPA.
+Không sử dụng bảng này để tuyên bố đã huấn luyện phone-HMM: Lab 3 chỉ yêu cầu parser và giải thích nối phone-HMM ở mức khái niệm.
+Nếu giảng viên cung cấp phone inventory, thay bảng này để đồng bộ.

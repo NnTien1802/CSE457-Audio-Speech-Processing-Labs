@@ -1,0 +1,3 @@
+﻿covariance_type,accuracy,train_score_per_frame,test_true_score_per_frame,train_sec,note
+diag,1.0,-38.04092111342236,-55.554023549333394,0.214564199995948,Cấu hình cơ sở
+full,,,,,Chưa chạy: Lab 3 cho phép thử full nếu đủ dữ liệu; đặt RUN_FULL_COV=True

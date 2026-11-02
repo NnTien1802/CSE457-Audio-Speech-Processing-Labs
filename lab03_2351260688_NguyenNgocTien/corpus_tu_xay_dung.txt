@@ -1,0 +1,31 @@
+# CORPUS TỰ XÂY DỰNG: các chuỗi nhãn lệnh giả định theo phiên điều khiển; không phải bản ghi lời nói thật.
+mo len dung
+mo xuong dung
+dong len dung
+dong xuong dung
+len dung
+xuong dung
+mo dung
+dong dung
+mo len dung
+dong xuong dung
+len xuong dung
+xuong len dung
+mo dong dung
+dong mo dung
+mo xuong dung
+dong len dung
+len dung
+xuong dung
+mo len dung
+dong xuong dung
+mo dung
+dong dung
+len xuong dung
+xuong len dung
+mo dong dung
+dong mo dung
+mo len dung
+dong xuong dung
+len dung
+xuong dung

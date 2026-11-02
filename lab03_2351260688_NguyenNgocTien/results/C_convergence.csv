@@ -1,0 +1,6 @@
+﻿label,n_states,n_features,frames,converged,n_iter,last_log_prob,warnings
+mo,5,39,263,True,39,-9551.601840140886,
+dong,5,39,170,True,11,-5738.899587146011,
+len,5,39,282,True,15,-11717.112469919164,
+xuong,5,39,268,True,18,-10108.539894737543,
+dung,5,39,283,True,13,-11682.719603117963,

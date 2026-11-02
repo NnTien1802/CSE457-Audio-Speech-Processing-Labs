@@ -1,0 +1,15 @@
+﻿metric,value
+files_total,40
+train_files,30
+test_files,10
+hmm_accuracy,1.0
+dtw_accuracy,0.9
+hmm_train_sec,0.214564199995948
+hmm_test_sec,0.04464199999347329
+dtw_prepare_sec,0.04479210000135936
+dtw_test_sec,0.0603337999782525
+noisy_accuracy,0.5
+noise_snr_db,15.0
+lexicon_entries,5
+using_demo_corpus,False
+E3_full_cov_run,False

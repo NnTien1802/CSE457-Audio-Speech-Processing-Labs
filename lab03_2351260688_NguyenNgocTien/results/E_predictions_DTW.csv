@@ -1,0 +1,11 @@
+﻿file,true,pred,correct,distance
+mo_07.wav,mo,mo,True,0.9295941625467911
+mo_08.wav,mo,mo,True,1.1489094193762481
+dong_07.wav,dong,dong,True,1.071025382030312
+dong_08.wav,dong,dong,True,1.556938251967494
+len_07.wav,len,dung,False,1.630033904616928
+len_08.wav,len,len,True,1.495629377504891
+xuong_07.wav,xuong,xuong,True,1.431791838033948
+xuong_08.wav,xuong,xuong,True,1.4841653961541847
+dung_07.wav,dung,dung,True,1.0856465292479773
+dung_08.wav,dung,dung,True,1.5760757284748355

@@ -1,0 +1,11 @@
+﻿file,true,pred,frames,best_score_per_frame,pred_with_reject,would_reject_with_train_threshold
+mo_07.wav,mo,mo,45,-42.48332167791524,mo,False
+mo_08.wav,mo,mo,55,-43.484348342099985,mo,False
+dong_07.wav,dong,dong,29,-72.67335384926142,dong,True
+dong_08.wav,dong,dong,39,-54.86968887325538,dong,True
+len_07.wav,len,len,49,-66.07305348870409,len,True
+len_08.wav,len,len,52,-56.463634898985475,len,True
+xuong_07.wav,xuong,xuong,45,-55.554156062602196,xuong,True
+xuong_08.wav,xuong,xuong,52,-55.293644528100565,xuong,True
+dung_07.wav,dung,dung,45,-53.45733330793456,dung,True
+dung_08.wav,dung,dung,52,-55.18770046447509,dung,True
