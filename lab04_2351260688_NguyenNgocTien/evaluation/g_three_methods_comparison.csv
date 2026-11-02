@@ -1,0 +1,4 @@
+﻿method,waveform_available,latency_s,RTF,naturalness_MOS,continuity_MOS,intelligibility_rating,word_correct_pct,data_memory,limitation
+Concatenative (unit selection + cross-fade),True,,,,,,,16 word units × 2 candidates,
+HMM/parametric (trajectory only),False,,,,,,,HMM state/parameter files,No waveform/vocoder: listening comparison N/A
+Neural VieNeu pretrained offline,True,1.6724,0.8239,,,,,Local pretrained weights (size to measure),

@@ -1,0 +1,2 @@
+﻿unit_source,sample_rate_hz,pYIN_median_f0_hz,pYIN_selected_frame_f0_hz,Np_samples,autocorrelation_f0_hz,num_voiced_frames
+lab4_data\units\ba_01.wav,16000,119.7447579534975,119.7447579534975,134,119.40298507462687,32

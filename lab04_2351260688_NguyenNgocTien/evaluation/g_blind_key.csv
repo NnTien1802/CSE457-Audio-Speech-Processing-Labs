@@ -1,0 +1,7 @@
+﻿sample_id,test_id,method,source_file,reference_text,audio_for_listening
+S01,test01,concat,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\audio_output\f_concat_test01.wav,Mời khách hàng số hai ba đến quầy năm.,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\evaluation\blind_audio\S01.wav
+S02,test02,neural,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\audio_output\neural_test02_16k.wav,Mời khách hàng số không bảy đến quầy ba.,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\evaluation\blind_audio\S02.wav
+S03,test03,neural,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\audio_output\neural_test03_16k.wav,Mời khách hàng số một tám đến quầy hai.,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\evaluation\blind_audio\S03.wav
+S04,test03,concat,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\audio_output\f_concat_test03.wav,Mời khách hàng số một tám đến quầy hai.,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\evaluation\blind_audio\S04.wav
+S05,test02,concat,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\audio_output\f_concat_test02.wav,Mời khách hàng số không bảy đến quầy ba.,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\evaluation\blind_audio\S05.wav
+S06,test01,neural,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\audio_output\neural_test01_16k.wav,Mời khách hàng số hai ba đến quầy năm.,C:\xulyamthanh\lab04_2351260688_NguyenNgocTien\evaluation\blind_audio\S06.wav
